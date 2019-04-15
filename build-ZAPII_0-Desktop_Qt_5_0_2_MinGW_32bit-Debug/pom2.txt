@@ -1,0 +1,5 @@
+-1.22076e-029	5.24944e-030	-1.32054e-030	-1.02719e-031	-8.21755e-032
+nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan
